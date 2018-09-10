@@ -1,0 +1,4 @@
+Bonjour,
+Je m'appelle Vincent, 29 ans, étudiant à Paris.
+J'ai commencé le parcours Développeur d'Applications Python sur OpenClassrooms.
+Bonne journée à tous.
