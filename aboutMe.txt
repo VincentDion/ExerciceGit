@@ -1,4 +1,7 @@
 Bonjour,
 Je m'appelle Vincent, 29 ans, étudiant à Paris.
 J'ai commencé le parcours Développeur d'Applications Python sur OpenClassrooms.
+
+Vous pouvez retrouver mon activité GitHub sur mon profil au lien suivant : https://github.com/VincentDion
+
 Bonne journée à tous.
